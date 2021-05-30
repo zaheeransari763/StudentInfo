@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/profile"
+        android:title="Profile" android:icon="@drawable/black_profile"/>
+
+    <item android:id="@+id/academics"
+        android:title="Academics" android:icon="@drawable/black_book"/>
+
+    <item android:id="@+id/fee"
+        android:title="Fee Structure" android:icon="@drawable/ic_attach_money_black_24dp"/>
+
+    <item android:id="@+id/logout"
+        android:title="Logout" android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+
+
+</menu>
